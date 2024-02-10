@@ -30,3 +30,4 @@ print(v)'''
 
 e="25$ $ $ sguahkjdn $"
 print(e.count("$"))
+print(type(e))
